@@ -1,0 +1,23 @@
+{
+  "name": "workflow-test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeLo123/workflows-test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeLo123/workflows-test-repo/issues"
+  },
+  "homepage": "https://github.com/JakeLo123/workflows-test-repo#readme",
+  "devDependencies": {
+    "vitest": "^1.4.0"
+  }
+}
